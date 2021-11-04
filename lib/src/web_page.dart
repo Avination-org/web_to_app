@@ -24,7 +24,7 @@ class _WebPageViewState extends State<WebPageView> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: WebView(
-        initialUrl: 'https://www.google.com',
+        initialUrl: 'https://www.avination.in',
         javascriptMode: JavascriptMode.unrestricted,
         allowsInlineMediaPlayback: true,
         debuggingEnabled: true,
